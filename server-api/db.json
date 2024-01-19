@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "id": "ce5a4a31-18d5-476d-b2aa-1cd30a397fd3",
+      "name": "Rehan ur Rashid",
+      "email": "malikrehan0022@gmail.com"
+    },
+    {
+      "id": "dca85a83-5aa5-4573-a95d-913c4fb15912",
+      "name": "Braid Bay",
+      "email": "braid@hotmail.com"
+    },
+    {
+      "id": "2f4ff713-65f3-4f7c-9ff1-1991c7d73b1f",
+      "name": "Jon Smith",
+      "email": "jon@live,com"
+    },
+    {
+      "id": "fa633e6b-6b1f-4185-8e39-958cda121048",
+      "name": "Simon Smith",
+      "email": "simon@gmail.com"
+    },
+    {
+      "id": "be7e8490-f858-4cae-9f87-3f6972d23cdc",
+      "name": "Dev Malia",
+      "email": "dev@dev.com"
+    },
+    {
+      "id": "b5575838-a7c3-41db-bd9b-fba3329ee500",
+      "name": "Jon Hite",
+      "email": "hite@tiy.com"
+    },
+    {
+      "id": "6d21e86f-826a-4eda-86bf-a61a973c7086",
+      "name": "Sanjna Shurti",
+      "email": "sanjna@film.com"
+    },
+    {
+      "id": "eadd368f-4496-41e7-bddd-289c18873f6f",
+      "name": "Live Test",
+      "email": "live_test@gmail.com"
+    },
+    {
+      "id": "091557f5-9dd4-438f-a6b8-18de265b24ca",
+      "name": "Hisham Malik",
+      "email": "hisham@live.com"
+    }
+  ]
+}
